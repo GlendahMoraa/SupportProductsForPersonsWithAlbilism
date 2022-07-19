@@ -31,4 +31,4 @@ There are no known bugs in the application.
 This project was implimeted using python. Python libraries used incluse: Pandas , Numpy and Matplotlib .
 
 ## Support and contact details
-In case you run into any issues or have querries ,ideas , or concerns, feel free to make a contribution to the code or contact me on Github:Caleb83-Moringa Copyright (c)2021
+In case you run into any issues or have querries ,ideas , or concerns, feel free to make a contribution to the code or contact me on Github GlendahMoraa Copyright (c)2021
